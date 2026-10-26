@@ -1,2 +1,1 @@
-Hello World
-print('Login feature')
+print("Hello World from CI Pipeline")
